@@ -7,9 +7,15 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Splash.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: 29996396d96954b4f9dfee72f6f85a99
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/Loader.unity
+    guid: 0404b7b12692647c0ab3721f3ed6db9a
+  - enabled: 0
+    path: Assets/Scenes/Lobby.unity
     guid: b91132ec0b4be4e7884e422398c1cdf1
+  - enabled: 0
+    path: Assets/Scenes/GamePlay.unity
+    guid: 80932b6f92d8e4268a01ee542b18b155
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: c667f9498039b4a08b0e9e592e848301, type: 2}
